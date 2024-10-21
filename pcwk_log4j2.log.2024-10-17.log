@@ -1,0 +1,123 @@
+[2024-10-17 14:50:44] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 14:50:44] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 14:50:44] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:02:10] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:02:10] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:02:10] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:02:28] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:02:28] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:02:28] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:02:54] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:02:54] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:02:54] DEBUG MemberDao.<init>(MemberDao.java:30) - pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:08:00] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:08:00] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:08:00] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:12:03] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:12:03] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:12:03] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:14:01] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:14:01] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:14:01] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:14:38] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:14:38] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:14:38] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:17:15] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:17:15] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:17:15] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:17:27] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:17:27] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:17:27] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:37:29] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:37:29] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:37:29] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:46:32] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:46:32] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:46:32] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:47:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:47:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:47:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:48:20] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:48:20] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:48:20] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:48:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:48:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:48:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:48:49] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:48:49] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:48:49] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:48:57] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 15:48:57] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 15:48:57] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:06:51] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:06:51] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:06:51] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:07:06] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:07:06] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:07:06] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:08:37] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:08:37] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:08:37] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:09:19] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:09:19] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:09:19] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:16:31] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:16:31] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:16:31] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:17:11] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:17:11] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:17:11] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:17:22] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:17:22] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:17:22] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:20:43] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:20:43] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:20:43] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:21:24] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:21:24] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:21:24] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:23:25] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:23:25] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:23:25] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:23:37] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:23:37] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:23:37] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:24:32] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:24:32] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:24:32] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:24:42] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:24:42] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:24:42] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:24:46] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:24:46] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:24:46] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:24:51] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 16:24:51] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 16:24:51] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:12:44] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:12:44] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:12:44] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:12:53] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:12:53] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:12:53] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:13:04] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:13:04] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:13:04] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:13:12] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:13:12] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:13:12] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:15:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:15:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:15:34] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:21:31] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:21:31] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:21:31] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:21:48] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:21:48] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:21:48] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:21:57] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:21:57] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:21:57] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:22:09] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-17 17:22:09] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-17 17:22:09] DEBUG MemberDao.<init>(MemberDao.java:30) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반

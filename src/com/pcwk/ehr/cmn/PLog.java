@@ -1,4 +1,4 @@
-package com.pswk.ehr.cmn;
+package com.pcwk.ehr.cmn;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

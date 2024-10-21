@@ -1,8 +1,9 @@
 package com.pcwk.ehr.book;
 
 import java.util.List;
-import com.pswk.ehr.cmn.DTO;
-import com.pswk.ehr.cmn.WorkDiv;
+
+import com.pcwk.ehr.cmn.DTO;
+import com.pcwk.ehr.cmn.WorkDiv;
 
 public class BookDao implements WorkDiv<BookVO>{
 

@@ -1,0 +1,3 @@
+[2024-10-18 14:11:34] DEBUG MemberDao.stringToMember(MemberDao.java:123) - memberStr: pcwk01,이상무01,4321,jamesol@paran.com,1,0,2024/10/17 14:33:00,일반
+[2024-10-18 14:12:34] DEBUG MemberDao.stringToMember(MemberDao.java:123) - memberStr: pcwk02,이상무02,4321,jamesol02@paran.com,1,1,2024/10/17 14:33:00,관리자
+[2024-10-18 14:12:39] DEBUG MemberDao.stringToMember(MemberDao.java:123) - memberStr: pcwk03,이상무03,4321,jamesol03@paran.com,1,0,2024/10/17 14:33:00,일반

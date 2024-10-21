@@ -1,4 +1,4 @@
-package com.pswk.ehr.member;
+package com.pcwk.ehr.member;
 
 public class MemberDaoMain {
 	

@@ -1,4 +1,4 @@
-package com.pswk.ehr.member;
+package com.pcwk.ehr.member;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -7,9 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-import com.pswk.ehr.cmn.DTO;
-import com.pswk.ehr.cmn.PLog;
-import com.pswk.ehr.cmn.WorkDiv;
+import com.pcwk.ehr.cmn.DTO;
+import com.pcwk.ehr.cmn.PLog;
+import com.pcwk.ehr.cmn.WorkDiv;
 
 public class MemberDao implements WorkDiv<MemberVO>, PLog {
 

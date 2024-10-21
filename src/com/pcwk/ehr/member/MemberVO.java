@@ -1,8 +1,8 @@
-package com.pswk.ehr.member;
+package com.pcwk.ehr.member;
 
 import java.util.Objects;
 
-import com.pswk.ehr.cmn.DTO;
+import com.pcwk.ehr.cmn.DTO;
 
 public class MemberVO extends DTO {
 	private String memberId;   // 회원ID<PK>
